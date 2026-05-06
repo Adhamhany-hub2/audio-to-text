@@ -18,9 +18,9 @@
 
 ### 📸 Screenshots
 
-| Landing Page | Features | Converter | Transcription Result |
-|---|---|---|
-| ![Landing](./screenshots/landing-page.png) | ![Features](./screenshots/features-page.png) | ![Converter](./screenshots/converter-page.png) | ![Result](./screenshots/result-page.png) |
+| Landing Page | Features | Converter | Result |
+
+| ![Landing](./screenshots/landing-page.png) | ![Features](./screenshots/features-page.png) | ![Converter](./screenshots/converter.png) | ![Result](./screenshots/result.png) |
 
 ---
 
