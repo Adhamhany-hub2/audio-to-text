@@ -20,7 +20,7 @@
 
 | Landing Page | Features | Converter | Result |
 
-| ![Landing](./screenshots/landing-page.png) | ![Features](./screenshots/features-page.png) | ![Converter](./screenshots/converter.png) | ![Result](./screenshots/result.png) |
+| ![Landing](./screenshots/landing-page.png) | Features ![Features](./screenshots/features-page.png) | Converter ![Converter](./screenshots/converter.png) | result ![Result](./screenshots/result.png) |
 
 ---
 
