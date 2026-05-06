@@ -14,7 +14,7 @@
 
 📽️ **[Watch the 60-second demo video](https://www.loom.com/share/bcf2808c51784ebd830b86fc708c8130)** 
 
-> 📸 _Add a screenshot of your app here. Save it as `screenshot.png` in the project root, then update the line below._
+
 
 ### 📸 Screenshots
 
